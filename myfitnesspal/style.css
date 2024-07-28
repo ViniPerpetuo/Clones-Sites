@@ -164,3 +164,13 @@ main{
 }
 
 /* CASOS */
+
+.casos{
+    background-color: antiquewhite;
+    display: inline-block;
+    width: 50%;
+}
+
+.casos h2{
+    text-align: center;
+}
