@@ -97,7 +97,6 @@ main{
 .hero p{
     text-align: left;
     line-height: 1.6; 
-   
 }
 
 .hero button{
@@ -151,7 +150,7 @@ main{
 .ferramentas-icons{ 
     display: flex; 
     margin-top: 50px;
-    padding: 0px 135px 0px 100px;
+    padding: 0px 135px 0px 118px;
 }
 
 .img-ferramentas{
