@@ -70,12 +70,26 @@ span{
     border-top-left-radius: 100%;
 }
 
-.circle img{
-    background-color: antiquewhite;
-}
-    
 .img-footer{
     position: absolute;
-    bottom: 0;
+    bottom: 30px;
+    right: 40%;
 }
+
+.img-footer img{
+    padding-right: 30px;
+    height: 100px;
+}
+
+.social-media{
+    position: absolute;
+    top: 45%;
+    right: 0;
+    padding-right: 25px;
+}
+
+.social-media img{
+    padding-top: 25px;
+}
+
 
